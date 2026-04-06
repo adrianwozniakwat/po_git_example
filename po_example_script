@@ -1,0 +1,4 @@
+tasks = ["Math homework", "Read book", "Science project"]
+
+for i, task in enumerate(tasks, 1):
+    print(f"{i}. {task}")
